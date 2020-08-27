@@ -1,0 +1,24 @@
+﻿1	1	banskobystricky kraj, brezno
+1	0	zilinsky kraj, kysucke nove mesto
+0	1	zilinsky kraj, kysucke nove mesto
+0	1	bratislavsky kraj, bratislava - karlova ves
+1	0	banskobystricky kraj, brezno
+1	0	zilinsky kraj, martin
+1	1	zilinsky kraj, zilina
+1	1	zilinsky kraj, kysucke nove mesto
+0	0	zilinsky kraj, zilina
+0	0	zilinsky kraj, kysucke nove mesto
+0	1	trenciansky kraj, ilava
+0	0	banskobystricky kraj, brezno
+0	0	zilinsky kraj, cadca
+1	0	zilinsky kraj, cadca
+0	0	zahranicie, zahranicie - francuzsko
+1	0	zilinsky kraj, zilina
+1	1	zahranicie, zahranicie - ostatne
+0	0	nitriansky kraj, nitra
+0	1	zilinsky kraj, zilina
+1	1	zilinsky kraj, bytca
+1	1	zilinsky kraj, martin
+1	0	zahranicie, zahranicie - ostatne
+1	1	zahranicie, zahranicie - nemecko
+0	1	zahranicie, zahranicie - ostatne
