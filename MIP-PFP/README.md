@@ -6,9 +6,9 @@ The browsing behaviors are stored as navigational patterns in web server logs. T
 
 ### Code Files
 
-Test.py		==>	Paper Code
+* Test.py		==>	Paper Code
 
-webLogData2000.txt	==> Sample input of 2000 points
+* webLogData2000.txt	==> Sample input of 2000 points
 
 For further details about implementation and input data please check Paper.
 ```
