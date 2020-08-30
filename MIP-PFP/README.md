@@ -4,7 +4,7 @@
 
 The browsing behaviors are stored as navigational patterns in web server logs. These weblogs are used to predict frequently accessed patterns of web users, which can be used to predict user behavior and to collect business intelligence. In this project I implemented parallel FP-growth (MIP-PFP) algorithm on the Apache Spark platform for extracting frequent patterns from huge weblogs.
 
-## Code Files
+### Code Files
 
 Test.py		==>	Paper Code
 
