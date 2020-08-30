@@ -22,9 +22,12 @@ For Further details on community interacition study please read the paper "Commu
 
 For further details on Pseudocode of each file and data please check Proposed Approach and Experiment Section.
 
-### Dependies 
+```
+Dependies:
+
 Python 3.7
 
 scikit-learn 0.22.1
 
 NetworkX 2.4
+```
