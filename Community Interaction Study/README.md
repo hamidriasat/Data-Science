@@ -14,7 +14,7 @@ and how to prevent conflicts is important to create better online environment. I
 
 3_communities.py	==>	code for creating communities/interection point
 
-4_tfidf_similarity.py	==>	code for creating bipartite graph (to identify which communities are communicating or attacking to other communities. Through bipartite graph we created who-postsswhere network.)
+4_tfidf_similarity.py	==>	code for creating bipartite graph (to identify which communities are communicating or attacking to other communities. Through bipartite graph we created who-post where network.)
 
 5_pagerank.py		==>	code for pagerank (To check wheather attackers or defenfders have more communication within same group)
 
